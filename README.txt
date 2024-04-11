@@ -1,7 +1,3 @@
-Claro, aqui está um exemplo de README.md que descreve as funcionalidades do seu programa:
-
----
-
 # Aplicação de Gerenciamento de Restaurantes
 
 Esta é uma aplicação back-end em Python desenvolvida para gerenciar informações de restaurantes através do console. Ela permite ao usuário cadastrar novos restaurantes, listar os restaurantes existentes, alternar o estado de ativação de um restaurante e finalizar a aplicação.
