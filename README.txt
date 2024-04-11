@@ -43,11 +43,7 @@ Esta é uma aplicação back-end em Python desenvolvida para gerenciar informaç
 Contribuições são bem-vindas! Sinta-se à vontade para abrir um problema ou enviar um pull request para sugerir melhorias ou correções.
 
 ## Autores
-[Seu Nome]
+Carlos Eduardo Peres Rocha
 
 ## Licença
 Este projeto está licenciado sob a [Licença MIT](https://opensource.org/licenses/MIT).
-
----
-
-Certifique-se de preencher os campos `[Seu Nome]` e fornecer uma descrição mais detalhada sobre os pré-requisitos, a execução e quaisquer outras informações relevantes para os usuários que desejam utilizar sua aplicação.
